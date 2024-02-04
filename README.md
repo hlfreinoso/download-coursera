@@ -1,5 +1,8 @@
 # Download Coursera
-Python
+Web Scraping Python
+</br>
+## Objetivo
+Realizar download de forma automatizada dos cursos do Coursera através da sua conta.
 
 ### Ambiente Virtual (venv)
 1. Certifique-se de ter o Python instalado.
